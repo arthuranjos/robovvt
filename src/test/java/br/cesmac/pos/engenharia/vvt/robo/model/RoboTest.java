@@ -16,6 +16,7 @@ public class RoboTest {
 	public void criaObjetos() {
 		this.robo = new Robo("Arthur", 5, 5, 1, 1);
 		this.robo2 = new Robo("BOT", 10, 10, 1, 1);
+		//teste
 	}
 	
 	@Test
