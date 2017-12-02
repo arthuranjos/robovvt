@@ -1,0 +1,40 @@
+Log do robô: BOT às Sat Dec 02 15:45:44 GMT-03:00 2017
+Número de Passos: 4
+Direção do movimento: CIMA
+A posição atual do Robô: BOT é: (1,5)
+
+Log do robô: BOT às Sat Dec 02 15:45:44 GMT-03:00 2017
+Número de Passos: 4
+Direção do movimento: DIREITA
+A posição atual do Robô: BOT é: (5,5)
+
+Log do robô: BOT às Sat Dec 02 15:45:44 GMT-03:00 2017
+Número de Passos: 2
+Direção do movimento: ESQUERDA
+A posição atual do Robô: BOT é: (3,5)
+
+Log do robô: BOT às Sat Dec 02 15:45:44 GMT-03:00 2017
+Número de Passos: 2
+Direção do movimento: BAIXO
+A posição atual do Robô: BOT é: (3,3)
+
+Log do robô: BOT às Sat Dec 02 15:45:44 GMT-03:00 2017
+Número de Passos: 1
+Direção do movimento: CIMA
+A posição atual do Robô: BOT é: (3,4)
+
+Log do robô: BOT às Sat Dec 02 15:45:44 GMT-03:00 2017
+Número de Passos: 2
+Direção do movimento: DIREITA
+A posição atual do Robô: BOT é: (5,4)
+
+Log do robô: BOT às Sat Dec 02 15:45:44 GMT-03:00 2017
+Número de Passos: 1
+Direção do movimento: ESQUERDA
+A posição atual do Robô: BOT é: (4,4)
+
+Log do robô: BOT às Sat Dec 02 15:45:44 GMT-03:00 2017
+Número de Passos: 1
+Direção do movimento: DIREITA
+A posição atual do Robô: BOT é: (5,4)
+
